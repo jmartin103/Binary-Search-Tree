@@ -1,13 +1,6 @@
 import java.util.*;
 
 /**
- * Name: John Martin 
- * Date: 11/20/2014 
- * TA: Matt 
- * CSc 3410
- * 
- * Program: BSTree.java
- * 
  * This is a program called BSTree.java. This program generates 50 random
  * integers between 1 and 99 and stores these items in a vector. The program
  * builds a binary search tree using the vector of integers. After building the
