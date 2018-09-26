@@ -1,10 +1,4 @@
 /** 
- * Name: John Martin
- * Date: 11/20/2014
- * Class: Node.java
- * CSc 3410 11:00-12:15
- * TA: Matt
- * 
  * The Node class creates a node and adds it to a binary tree.
  */
 
