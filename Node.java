@@ -25,10 +25,10 @@ public class Node<Integer> {
 	 * Parameter(s): None
 	 */
 	public boolean hasLeftChild() {
-		if (curr.left == null) // Node has left child; return true
+		if (curr.left == null) // Node does not have a left child; return false
 			return false;
 		else
-			return true; // Node does not have a left child; return false
+			return true; // Node has a left child; return true
 	}
 	
 	/**
